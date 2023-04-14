@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello owner! napagana na din!
+=======
+Hello Owner!
+>>>>>>> 8a34c3c8866a5a643e3ab2ac3d8e63e309fd10ae
 hello collaborator!
 
