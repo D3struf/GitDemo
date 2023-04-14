@@ -1,7 +1,3 @@
 hello owner!
 hello collaborator!
-<<<<<<< HEAD
-Uulitin kasi nabago!
-=======
 hello world hehehe
->>>>>>> 8974db0a97af5d445f8860de56ecc1f45ea9dca9
